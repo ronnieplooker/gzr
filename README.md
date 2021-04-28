@@ -8,6 +8,8 @@ and Dashboards via a simple command line tool.
 Gazer is **NOT** supported or warranteed by Looker in any way. Please do not contact Looker support
 for issues with Gazer. Issues can be logged via https://github.com/looker-open-source/gzr/issues 
 
+In Looker 21.4.18 and later, Gazer does not support migrating Looks between Looker instances.
+
 ## Installation
 
 You can install this gem by simply typing:
